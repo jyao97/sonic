@@ -1,6 +1,5 @@
-@inproceedings{li2020Evolvegraph,
-  title={EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning},
-  author={Li, Jiachen and Yang, Fan and Tomizuka, Masayoshi and Choi, Chiho},
-  booktitle={Proceedings of the Neural Information Processing Systems (NeurIPS)},
-  year={2020}
+@inproceedings{yao2024sonic,
+  title={SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning},
+  author={Yao, Jianpeng and Zhang, Xiaopan and Xia, Yu and Roy-Chowdhury, Amit K and Li, Jiachen},
+  year={2024}
 }
